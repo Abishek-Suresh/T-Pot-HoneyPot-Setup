@@ -54,5 +54,7 @@ Deployed and configured T-Pot Honeypot, a multi-honeypot platform on Ubuntu Serv
 I ran a nmap scan on the server in order to check the honeypot. As you can see, from the location, to the source ip of the attack is captured and showcased via dashboard.
 <br><br>
 ![Image](https://github.com/user-attachments/assets/61608747-0aee-416c-9d5c-4aa6e5395850)
-<br>
+<br><br>
+
+![Image](https://github.com/user-attachments/assets/eb5b631e-041b-4d40-856b-3d9bd334ffd0)
 
